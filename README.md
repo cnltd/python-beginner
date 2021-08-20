@@ -5,9 +5,9 @@ This course will help new programming enthusastics to learn about Python and its
 ## Table of Contents
 * [Module 01 - Brief history of Python]
 * [Module 02 - Installing and setting-up Python3.x]
-* [Module 03 - Setting up code editor](docs/var-opr-dtypes.md)
+* [Module 03 - Setting up code editor]
 * [Module 04 - Introduction To Python programming]
-* [Module 05 - Variables, Operators and Data types]
+* [Module 05 - Variables, Operators and Data types](docs/var-opr-dtypes.md)
 * [Module 06 - Conditions]
 * [Module 07 - Loops] <!-- Project - 1  -->
 * [Module 08 - Introduction to Object Oriented Programming]
