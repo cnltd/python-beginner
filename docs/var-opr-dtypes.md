@@ -6,8 +6,9 @@ Variables are what python uses to store values. When we create a variable, pytho
 * Must always start with an alphabet or underscore symbol
 
     ```
-    my_variable = 123
-    _myVariable = 123
+    my_variable
+    (or)
+    _myVariable
     ```
 
 * They are case sensitive
@@ -20,7 +21,8 @@ Variables are what python uses to store values. When we create a variable, pytho
 
     ```
     my_variable1
-    my variable200
+    (or)
+    my_variable200
     ```
 
 * Cannot contain symbols other than underscore, allowed range (a-z, 0-9 and _ )
@@ -50,3 +52,5 @@ Variables are what python uses to store values. When we create a variable, pytho
     ```
 
 # Data types
+
+## Texts
