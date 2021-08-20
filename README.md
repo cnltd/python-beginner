@@ -1,6 +1,6 @@
 # Python programming for beginners
 
-This course will help new programming enthusastics to learn about Python and its application in the real world
+This course will help new programming enthusiasts to learn about Python and its application in the real world
 
 ## Table of Contents
 * [Module 01 - Brief history of Python]
