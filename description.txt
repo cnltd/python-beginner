@@ -1,0 +1,84 @@
+# python-beginner
+Kickstart your python programming skills!!!
+
+
+This course will help new programming enthusastics to learn about Python and its application in the real world
+
+Through this we aim to gain,
+
+    Fundamentals of Python programming like datatypes, structure, object oriented programming  
+    Understand existing code in a simple python application
+    learm more advanced concepts with the experience gained from practice projects
+    Latest industry standard best practices, like pep8
+    An introduction into intermediate and advanced python programming like multi threading, dunder methods, web app development and much more
+
+Recomended Requirements
+
+    Minimum knowledge in using any one of windows/mac/linux machine like installation, storage, etc.
+    A good internet connection supporting video call and screen sharing.
+    A computer with minimum of 6gb ram, intel i3 or AMD 3 series processer not older than 5 years.
+
+
+Description
+
+Welcome to the Python for beginners Course!!!
+
+***Fully updated for 2019*** The course covers every major Python topic (including Object-Oriented Programming, Web Scraping, and even GUI development), and now includes even more content…!
+
+NEW CONTENT:
+
+    Control your browser using Selenium, to scrape websites or even fill in forms!
+    Learn to interact with REST APIs and build a currency exchange program
+    Create desktop GUIs using Tkinter, so your users can work with your applications very easily
+    Start working with unit testing in Python by learning about the unittest library
+
+We’ve also completely re-recorded  the course’s introductory Python material… so it’s even clearer and more straightforward!
+
+This course will take you from beginner to expert in Python, easily and smartly. We’ve crafted every piece of content to be concise and straightforward, while never leaving you confused. This course will dive right into Python and get you productive from the very beginning.
+
+Why Learn Python?
+
+Over the last few years, Python has become more and more popular. Demand for Python is booming in the job market and it is a skill that can help you enter some of the most exciting industries, including data science, web applications, home automation and many more. Python is one of the “most loved” and “most wanted” programming languages according to recent industry surveys. If people are not using Python already, they want to start using Python.
+
+This course will make it easy for you to learn Python and get ahead of your competition. 
+
+Why Choose THIS Course?
+
+You will:
+
+    Get a broader and deeper experience in Python than with any other Udemy course on the market.
+    Start at zero and become an expert whilst learning all about the inner workings of Python.
+    Learn how to write professional Python code like a professional Python developer.
+    Develop a long-lasting love for Python and programming by creating good programming habits.
+    Explore the wider possibilities of what you can do with Python, including databases, web development and web scraping.
+
+Who is This Course For?
+
+    Beginners who have never programmed before.
+    Programmers with experience in other languages who want to kickstart their Python programming.
+    Programmers who know some Python but want to round off their skills and become truly proficient.
+
+What Am I Going to Get From This Course?
+
+    Lifetime access to over 200 lectures covering all aspects of Python, from the foundations to advanced concepts.
+    An interactive screencast video from every lecture AND complete, written notes and code for you to read and refer back to you as you progress through the course.
+    Milestone projects for you to complete throughout the course. These provide a challenge and an opportunity for you to apply what you’ve learned. We always go over the code after to show you how we would tackle them.
+    Guidance on common pitfalls and best practices including how to make your code “Pythonic” (looking like professional code), Object-Oriented Programming, database interactions, and more.
+    Quizzes and tests for you to check your understanding.
+    High quality help and support. In the last year alone we’ve answered over 3000 student questions. We don’t leave a single question unanswered.
+
+Don’t Wait! Join the Course and Begin Coding in Python today!
+
+You’ll have 30 days to change your mind and get your money back, with absolutely no questions asked AND you’ll get to keep all the course notes and code as a thank you for trying the course out.
+Who is the target audience?
+
+    Beginner programmers who want to get into one of the most popular and loved languages in the world
+    Programmers from other languages who want to kickstart their Python journey
+    Python programmers who want to refresh their skills and tackle advanced topics like algorithms and asynchronous programming
+
+Created by Codestars by Rob Percival, Jose Salvatierra, Rob Percival
+Last updated 5/2021
+English
+English
+
+Size: 13.41 GB
