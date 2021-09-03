@@ -8,8 +8,8 @@ This course will help new programming enthusiasts to learn about Python and its 
 * [Module 03 - Setting up code editor]
 * [Module 04 - Introduction To Python programming]
 * [Module 05 - Variables, Operators and Data types](docs/var-opr-dtypes.md)
-* [Module 06 - Conditions]
-* [Module 07 - Loops] <!-- Project - 1  -->
+* [Module 06 - Conditions](docs/conditions.md)
+* [Module 07 - Loops](docs/loops.md) <!-- Project - 1  -->
 * [Module 08 - Introduction to Object Oriented Programming]
 * [Module 09 - functions]
 * [Module 10 - class]
